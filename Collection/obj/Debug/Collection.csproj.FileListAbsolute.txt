@@ -1,0 +1,7 @@
+D:\SEMESTER 2\PEMROGRAMAN\LATIHAN VISUAL STUDIO\Collection\Collection\obj\Debug\Collection.csprojAssemblyReference.cache
+D:\SEMESTER 2\PEMROGRAMAN\LATIHAN VISUAL STUDIO\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\PEMROGRAMAN\LATIHAN VISUAL STUDIO\Collection\Collection\bin\Debug\Collection.exe.config
+D:\SEMESTER 2\PEMROGRAMAN\LATIHAN VISUAL STUDIO\Collection\Collection\bin\Debug\Collection.exe
+D:\SEMESTER 2\PEMROGRAMAN\LATIHAN VISUAL STUDIO\Collection\Collection\bin\Debug\Collection.pdb
+D:\SEMESTER 2\PEMROGRAMAN\LATIHAN VISUAL STUDIO\Collection\Collection\obj\Debug\Collection.exe
+D:\SEMESTER 2\PEMROGRAMAN\LATIHAN VISUAL STUDIO\Collection\Collection\obj\Debug\Collection.pdb
